@@ -18,5 +18,6 @@ Ministry of IT, Pakistan → AI ethics research for national frameworks
 🔗 Let's Connect!
 
 📧 Email: bashaarjavaid@gmail.com
+Portfolio Website: https://bashaarjavaid.github.io
 
 Always excited to discuss AI, golf, or cross-cultural tech collaborations! 🌟
