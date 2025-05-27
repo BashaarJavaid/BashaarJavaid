@@ -1,16 +1,22 @@
-## Hi there 👋
+Hey there! 👋 Welcome to my AI journey!
+I'm Malik Bashaar Javaid - CS student at DePauw University building AI systems that bridge cultures 🌍
+🚀 What I Build
 
-<!--
-**BashaarJavaid/BashaarJavaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Multi-Agent AI Systems - LegalSphere with 72% accuracy in trade law research
+📊 LLM Applications - Knowledge systems with 3x faster retrieval (Neo4j + RAG pipelines)
+⚡ Enterprise Solutions - Automated 300K+ document processing with 75% time reduction
 
-Here are some ideas to get you started:
+💼 Experience
+ISSM.AI → Agentic frameworks for enterprise compliance
+United Bank Limited → Fine-tuned LLMs with vector databases
+Ministry of IT, Pakistan → AI ethics research for national frameworks
+🌟 Beyond Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⛳ Golf Enthusiast - Member of DePauw University Golf Team
+🌍 Mission - Making AI accessible across diverse communities
+
+🔗 Let's Connect!
+
+📧 Email: bashaarjavaid@gmail.com
+
+Always excited to discuss AI, golf, or cross-cultural tech collaborations! 🌟
