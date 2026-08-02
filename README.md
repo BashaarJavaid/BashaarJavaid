@@ -63,6 +63,7 @@ I design and ship **agentic AI infrastructure** — not just prompts wired to an
 ### 🌱 Beyond code
 
 ⛳ Golf
+
 🌍 Interested in AI systems that work across languages, infra, and cultures, not just English-first demos
 
 ### 📫 Reach me
