@@ -19,7 +19,7 @@
 [boot] agent_profile.py ready.
 ```
 
-### 🧠 What I build
+### 🧠 What I build:
 
 I design and ship **agentic AI infrastructure** — not just prompts wired to an LLM, but systems with memory, recovery, and observability baked in.
 
