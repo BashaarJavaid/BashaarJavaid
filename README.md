@@ -38,14 +38,12 @@ I design and ship **agentic AI infrastructure** — not just prompts wired to an
 `LangGraph` · `LangChain` · `AutoGen` · `Letta` · `pgvector` · `RAG pipelines` · `Multi-agent orchestration`
 
 ### 📈 The numbers
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=BashaarJavaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashaarJavaid&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BashaarJavaid&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=BashaarJavaid&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🐍 Contribution graph, agent-eaten
