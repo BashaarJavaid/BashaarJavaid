@@ -64,7 +64,7 @@ I design and ship **agentic AI infrastructure** — not just prompts wired to an
 
 🌍 Interested in AI systems that work across languages, infra, and cultures, not just English-first demos
 
-### 📫 Reach me:
+### 📫 Reach me
 
 <p align="left">
   <a href="mailto:bashaarjavaid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
